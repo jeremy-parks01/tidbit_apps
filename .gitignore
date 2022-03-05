@@ -1,0 +1,10 @@
+# Private Files
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+*.sh
+*.pem
+*.sh
